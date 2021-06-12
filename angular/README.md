@@ -1,5 +1,6 @@
 # saloonTemplate
-
+sallon artist 1
+sallon artist 2
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-beta.31.
 
 ## Development server
